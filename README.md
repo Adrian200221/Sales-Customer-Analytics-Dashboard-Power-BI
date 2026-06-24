@@ -1,2 +1,3 @@
 # Sales-Customer-Analytics-Dashboard-Power-BI
-Proyecto de análisis de datos enfocado en el estudio del comportamiento de los clientes y el rendimiento comercial.
+Este proyecto presenta una solución de Inteligencia de Negocios (Business Intelligence) desarrollada en Power BI para analizar el rendimiento de ventas y el comportamiento de los clientes. El dashboard incluye indicadores clave (KPIs) como ventas totales, clientes únicos, cantidad de pedidos, ticket promedio y productos vendidos. Además, proporciona segmentación de clientes basada en la frecuencia y recurrencia de compra, análisis de tendencias de ventas a lo largo del tiempo, análisis geográfico, estado de cumplimiento de pedidos e indicadores de retención de clientes. La solución fue desarrollada utilizando Power BI, DAX, Power Query y Excel, transformando datos transaccionales en información estratégica para apoyar la toma de decisiones empresariales.
+
